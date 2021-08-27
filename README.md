@@ -3,7 +3,7 @@
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-
+Hello, This is Rashpal Singh.
 Thanks for checking out this front-end coding challenge.
 
 ### What I learned
