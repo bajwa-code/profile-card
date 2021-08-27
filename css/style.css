@@ -6,7 +6,7 @@
 	--clr-dark-blue: 229 23% 23%;
 	--clr-grayish-blue: 227 10% 46%;
 	--clr-dark-gray: 0 0% 59%;
-
+	--clr-black: 1 0% 0%;
 	--br-value: 16px;
 }
 
@@ -45,6 +45,7 @@ h1 {
 	text-align: center;
 	background: white;
 	border-radius: var(--br-value);
+	box-shadow: 0 1rem 3rem hsl(var(--clr-black)/.2);
 }
 
 .card-image {
